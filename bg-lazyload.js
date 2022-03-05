@@ -32,7 +32,7 @@
 /*jshint strict: true */
 'use strict';
 
-Flickity.createMethods.push('_createBgLazyLoad');
+//Flickity.createMethods.push('_createBgLazyLoad');
 
 var proto = Flickity.prototype;
 
